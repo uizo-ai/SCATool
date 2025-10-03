@@ -1,5 +1,5 @@
 {
   "functions": {
-    "app/api/chat/route.ts": { "runtime": "edge@1", "maxDuration": 30 }
+    "app/api/chat/route.ts": { "runtime": "edge-runtime@1.0.0", "maxDuration": 30 }
   }
 }
